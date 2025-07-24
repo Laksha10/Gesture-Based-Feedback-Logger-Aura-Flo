@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+auraflo-env/
+*.log
+.env
+*.sqlite3
+
